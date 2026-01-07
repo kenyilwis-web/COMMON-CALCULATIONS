@@ -1,0 +1,11 @@
+{
+  "name": "common-calculations",
+  "version": "1.0.0",
+  "description": "Utility functions for common calculations",
+  "main": "src/utils.js",
+  "scripts": {
+    "test": "node tests/run-tests.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
